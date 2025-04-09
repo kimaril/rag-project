@@ -1,0 +1,11 @@
+pymupdf
+qdrant-client
+torch==2.6.0
+transformers 
+sentence-transformers
+rank-bm25
+pandas 
+numpy 
+tqdm
+accelerate
+ipywidgets
